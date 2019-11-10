@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project name="BetterLineage/android_prebuilts_prebuiltapks" path="prebuilts/prebuiltapks" remote="github" revision="master" />
     <remove-project name="LineageOS/android_packages_apps_Calendar" />
     <remove-project name="LineageOS/android_packages_apps_Messaging" />
     <remove-project name="LineageOS/android_packages_apps_Snap" />
+    <project name="BetterLineage/android_prebuilts_prebuiltapks" path="prebuilts/prebuiltapks" remote="github" revision="master" />
 </manifest>
