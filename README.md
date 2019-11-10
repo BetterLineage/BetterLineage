@@ -2,6 +2,8 @@
 
 A script that replaces outdated AOSP apps and adds useful tools to LineageOS.
 
+Add betterlineage.xml to local_manifests when compiling LineageOS with Docker.
+
 APKs are stored in [this](https://github.com/BetterLineage/android_prebuilts_prebuiltapks) repository.
 
 They are all sourced from F-Droid except for OpenWeatherMap Weather Provider ([located here](https://download.lineageos.org/extras)), Aurora Services ([located here](https://gitlab.com/AuroraOSS/AuroraServices/-/releases)), and Arnova8G2's Google Camera Port ([located here](https://www.celsoazevedo.com/files/android/google-camera/f/changelog606)).
