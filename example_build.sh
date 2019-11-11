@@ -12,10 +12,10 @@ docker run \
     -e "WITH_SU=true" \
     -e "SIGNATURE_SPOOFING=restricted" \
     -e "CUSTOM_PACKAGES=AdAway Arnova8G2GCamPixel2Mod AuroraStore AuroraServices Etar FennecFDroid PrivacyFriendlyNetMonitor QKSMS SimpleFileManagerPro GmsCore GsfProxy FakeStore MozillaNlpBackend NominatimNlpBackend com.google.android.maps.jar FDroid FDroidPrivilegedExtension " \
-    -v "/home/quint/lineage/build/lineage:/srv/src:Z" \
-    -v "/home/quint/lineage/build/zips:/srv/zips:Z" \
-    -v "/home/quint/lineage/build/logs:/srv/logs:Z" \
-    -v "/home/quint/lineage/build/cache:/srv/ccache:Z" \
-    -v "/home/quint/lineage/build/keys:/srv/keys:Z" \
-    -v "/home/quint/lineage/build/manifests:/srv/local_manifests:Z" \
+    -v "/home/cid/lineage/build/lineage:/srv/src" \
+    -v "/home/cid/lineage/build/zips:/srv/zips" \
+    -v "/home/cid/lineage/build/logs:/srv/logs" \
+    -v "/home/cid/lineage/build/cache:/srv/ccache" \
+    -v "/home/cid/lineage/build/keys:/srv/keys" \
+    -v "/home/cid/lineage/build/manifests:/srv/local_manifests" \
     lineageos4microg/docker-lineage-cicd
