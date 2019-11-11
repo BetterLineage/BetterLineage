@@ -2,7 +2,9 @@
 
 A script that replaces outdated AOSP apps and adds useful tools to LineageOS.
 
-Add betterlineage.xml to local_manifests when compiling LineageOS with Docker.
+Add betterlineage.xml to local_manifests and add their name to CUSTOM_PACKAGES when compiling LineageOS with Docker.
+
+Example build script [here](https://github.com/BetterLineage/BetterLineage/blob/master/example_build.sh).
 
 APKs are stored in [this](https://github.com/BetterLineage/android_prebuilts_prebuiltapks) repository.
 
