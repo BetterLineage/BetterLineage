@@ -2,6 +2,8 @@
 
 A script that replaces outdated AOSP apps and adds useful tools to LineageOS.
 
+Download a prebuilt ROM [here](https://www.androidfilehost.com/?w=files&flid=302083).
+
 Add betterlineage.xml to local_manifests and add their name to CUSTOM_PACKAGES when compiling LineageOS with Docker.
 
 Example build script [here](https://github.com/BetterLineage/BetterLineage/blob/master/example_build.sh).
