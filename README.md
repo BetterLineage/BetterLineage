@@ -15,7 +15,7 @@ They are all sourced from F-Droid except for OpenWeatherMap Weather Provider ([l
 ## Installed Apps:
 
 * AdAway
-* Arnova8G2's Google Camera Port (V8.3b1) (replaces Lineage Snap)
+* Arnova8G2's Google Camera Port (V8.3b1) (replaces Lineage Snap/AOSP Camera2)
 * Aurora Droid
 * Aurora Services
 * Aurora Store
@@ -29,7 +29,11 @@ They are all sourced from F-Droid except for OpenWeatherMap Weather Provider ([l
 
 ## Removed Apps:
 
-* AudioFX
+* Lineage AudioFX
+* AOSP Calendar
+* AOSP Camera2
+* AOSP Messages
+* Lineage Snap
 
 ## Contributing:
 
