@@ -16,15 +16,20 @@ They are all sourced from F-Droid except for OpenWeatherMap Weather Provider ([l
 
 * AdAway
 * Arnova8G2's Google Camera Port (V8.3b1) (replaces Lineage Snap)
-* Aurora Store (includes Aurora Services)
+* Aurora Droid
+* Aurora Services
+* Aurora Store
 * Etar (replaces AOSP Calendar)
-* F-Droid (includes Privileged Extension)
-* Fennec F-Droid
-* The MicroG Suite (includes Mozilla+NominatimNlpBackend)
+* Firefox Lite
+* The microG Suite (includes Mozilla+NominatimNlpBackend)
 * OpenWeatherMap Weather Provider
 * Privacy Friendly Net Monitor
 * QKSMS (replaces AOSP Messages)
 * Simple File Manager
+
+## Removed Apps:
+
+* AudioFX
 
 ## Contributing:
 
