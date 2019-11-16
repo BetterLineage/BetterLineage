@@ -19,6 +19,7 @@ They are all sourced from F-Droid except for OpenWeatherMap Weather Provider ([l
 * Aurora Droid
 * Aurora Services
 * Aurora Store
+* DAVx5
 * Etar (replaces AOSP Calendar)
 * Firefox Lite
 * The microG Suite (includes Mozilla+NominatimNlpBackend)
@@ -26,6 +27,7 @@ They are all sourced from F-Droid except for OpenWeatherMap Weather Provider ([l
 * Privacy Friendly Net Monitor
 * QKSMS (replaces AOSP Messages)
 * Simple File Manager
+* Simple Notes
 
 ## Removed Apps:
 
