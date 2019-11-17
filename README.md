@@ -16,12 +16,12 @@ They are all sourced from F-Droid except for OpenWeatherMap Weather Provider ([l
 
 * AdAway
 * Arnova8G2's Google Camera Port (V8.3b1) (replaces Lineage Snap/AOSP Camera2)
-* Aurora Droid
 * Aurora Services
 * Aurora Store
 * DAVx5
+* DuckDuckGo Privacy Browser
 * Etar (replaces AOSP Calendar)
-* IceCatMobile
+* F-Droid (includes Privileged Extension)
 * The microG Suite (includes Mozilla+NominatimNlpBackend)
 * OpenWeatherMap Weather Provider
 * Privacy Friendly Net Monitor
@@ -34,6 +34,7 @@ They are all sourced from F-Droid except for OpenWeatherMap Weather Provider ([l
 * Lineage AudioFX
 * AOSP Calendar
 * AOSP Camera2
+* Lineage Jelly
 * AOSP Messages
 * Lineage Snap
 

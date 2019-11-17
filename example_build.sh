@@ -11,7 +11,7 @@ docker run \
     -e "KEYS_SUBJECT='/C=US/ST=Washington/L=Seattle/O=LineageOS/OU=BetterLineage/CN=Cid/emailAddress=cid@lineageos.org'" \
     -e "WITH_SU=true" \
     -e "SIGNATURE_SPOOFING=restricted" \
-    -e "CUSTOM_PACKAGES=AdAway Arnova8G2GCamPixel2Mod AuroraServices AuroraStore com.google.android.maps Etar FDroid FDroidPrivilegedExtension FakeStore FennecFDroid GmsCore GsfProxy MozillaNlpBackend NominatimNlpBackend OpenWeatherProvider PrivacyFriendlyNetMonitor QKSMS SimpleFileManagerPro " \
+    -e "CUSTOM_PACKAGES=AdAway Arnova8G2GCamPixel2Mod AuroraServices AuroraStore com.google.android.maps Etar DAVx5 DuckDuckGoPrivacyBrowser FDroid FDroidPrivilegedExtension FakeStore GmsCore GsfProxy MozillaNlpBackend NominatimNlpBackend OpenWeatherProvider PrivacyFriendlyNetMonitor QKSMS SimpleFileManagerPro SimpleNotes " \
     -v "/home/cid/lineage/build/lineage:/srv/src" \
     -v "/home/cid/lineage/build/zips:/srv/zips" \
     -v "/home/cid/lineage/build/logs:/srv/logs" \
