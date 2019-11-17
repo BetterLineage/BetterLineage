@@ -21,7 +21,7 @@ They are all sourced from F-Droid except for OpenWeatherMap Weather Provider ([l
 * Aurora Store
 * DAVx5
 * Etar (replaces AOSP Calendar)
-* Firefox Lite
+* IceCatMobile
 * The microG Suite (includes Mozilla+NominatimNlpBackend)
 * OpenWeatherMap Weather Provider
 * Privacy Friendly Net Monitor
