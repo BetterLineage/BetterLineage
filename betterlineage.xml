@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+    <remove-project name="LineageOS/android_packages_apps_AudioFX" />
     <remove-project name="LineageOS/android_packages_apps_Calendar" />
     <remove-project name="LineageOS/android_packages_apps_Camera2" />
     <remove-project name="LineageOS/android_packages_apps_Messaging" />
