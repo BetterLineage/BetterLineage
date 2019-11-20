@@ -12,6 +12,10 @@ APKs are stored in [this](https://github.com/BetterLineage/android_prebuilts_pre
 
 They are all sourced from F-Droid except for OpenWeatherMap Weather Provider ([located here](https://download.lineageos.org/extras)), Aurora Services ([located here](https://gitlab.com/AuroraOSS/AuroraServices/-/releases)), and Arnova8G2's Google Camera Port ([located here](https://www.celsoazevedo.com/files/android/google-camera/f/changelog606)).
 
+## Screenshots
+
+<img src="https://raw.githubusercontent.com/BetterLineage/BetterLineage/master/screenshots/1.png" alt="Default home screen" width="400" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/BetterLineage/BetterLineage/master/screenshots/2.png" alt="Default apps" width="400" />
+
 ## Installed Apps:
 
 * AdAway
