@@ -10,7 +10,7 @@ Example build script [here](https://github.com/BetterLineage/BetterLineage/blob/
 
 APKs are stored in [this](https://github.com/BetterLineage/android_prebuilts_prebuiltapks) repository.
 
-They are all sourced from F-Droid except for OpenWeatherMap Weather Provider ([located here](https://download.lineageos.org/extras)), and Aurora Services ([located here](https://gitlab.com/AuroraOSS/AuroraServices/-/releases)).
+They are all sourced from F-Droid except for OpenWeatherMap Weather Provider ([located here](https://download.lineageos.org/extras)), Unlock Clock ([located here](https://experiments.withgoogle.com/unlock-clock)), and Aurora Services ([located here](https://gitlab.com/AuroraOSS/AuroraServices/-/releases)).
 
 ## Screenshots
 
@@ -21,19 +21,19 @@ They are all sourced from F-Droid except for OpenWeatherMap Weather Provider ([l
 * AdAway
 * Aurora Store (includes Aurora Services)
 * DAVx5
-* DuckDuckGo Privacy Browser
+* Firefox Klar
 * Etar (replaces AOSP Calendar)
 * F-Droid (includes Privileged Extension)
 * Material Files
-* The microG Suite (includes Mozilla+NominatimNlpBackend and DroidGuard Helper)
+* The microG Suite (includes Mozilla & NominatimNlpBackend)
 * MuPDF Viewer
 * Omni Notes
-* Open Camera (replaces Lineage Snap/AOSP Camera2)
+* Open Camera (replaces Lineage Snap/AOSP Camera2) (Not included in builds for mata)
 * OpenWeatherMap Weather Provider
 * Privacy Friendly Net Monitor
 * QKSMS (replaces AOSP Messages)
 * SecScanQR
-* Unlock Counter Wallpaper from Google Digital Wellbeing Experiments
+* Unlock Clock Wallpaper from Google Digital Wellbeing Experiments
 
 ## Removed Apps:
 
@@ -48,4 +48,4 @@ They are all sourced from F-Droid except for OpenWeatherMap Weather Provider ([l
 
 Feel free to submit pull requests in [this](https://github.com/BetterLineage/android_prebuilts_prebuiltapks) repository.
 
-Feel free to contact me at contact [at] quint5 [dot] tech.
+Feel free to contact us at betterlineage [at] quint5 [dot] tech.
