@@ -10,7 +10,7 @@ Example build script [here](https://github.com/BetterLineage/BetterLineage/blob/
 
 APKs are stored in [this](https://github.com/BetterLineage/android_prebuilts_prebuiltapks) repository.
 
-They are all sourced from F-Droid except for OpenWeatherMap Weather Provider ([located here](https://download.lineageos.org/extras)), Unlock Clock ([located here](https://experiments.withgoogle.com/unlock-clock)), and Aurora Services ([located here](https://gitlab.com/AuroraOSS/AuroraServices/-/releases)).
+All apps are sourced from F-Droid except for Aurora Services ([located here](https://gitlab.com/AuroraOSS/AuroraServices/-/releases)), /e/ Nextcloud integration ([located here](https://gitlab.e.foundation/e/os/android_prebuilts_prebuiltapks/-/tree/master/)), LineageOS OpenWeatherMap Weather Provider ([located here](https://download.lineageos.org/extras)), and Unlock Clock ([located here](https://experiments.withgoogle.com/unlock-clock) [code here](https://github.com/BetterLineage/digital-wellbeing-experiments-toolkit/tree/master/liveWallpaper/data-livewallpaper)).
 
 ## Screenshots
 
@@ -18,18 +18,21 @@ They are all sourced from F-Droid except for OpenWeatherMap Weather Provider ([l
 
 ## Installed Apps:
 
-* AdAway
 * Aurora Store (includes Aurora Services)
-* DAVx5
-* Firefox Klar
+* Blockada V4
 * Etar (replaces AOSP Calendar)
 * F-Droid (includes Privileged Extension)
-* Material Files
+* Good Weather
+* LibreOffice Viewer
+* Material Files (replaces AOSP DocumentsUI)
 * The microG Suite (includes Mozilla & NominatimNlpBackend)
 * MuPDF Viewer
+* Nextcloud Integration from /e/ (includes AccountManager and eDrive)
 * Omni Notes
-* Open Camera (replaces Lineage Snap/AOSP Camera2) (Not included in builds for mata)
-* OpenWeatherMap Weather Provider
+* Open Camera (replaces Lineage Snap/AOSP Camera2)
+* OpenTasks
+* LineageOS OpenWeatherMap Weather Provider
+* Privacy Browser
 * Privacy Friendly Net Monitor
 * QKSMS (replaces AOSP Messages)
 * SecScanQR
@@ -40,6 +43,7 @@ They are all sourced from F-Droid except for OpenWeatherMap Weather Provider ([l
 * Lineage AudioFX
 * AOSP Calendar
 * AOSP Camera2
+* AOSP DocumentsUI
 * Lineage Jelly
 * AOSP Messages
 * Lineage Snap
