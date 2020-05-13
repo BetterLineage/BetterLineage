@@ -3,6 +3,7 @@
     <remove-project name="LineageOS/android_packages_apps_AudioFX" />
     <remove-project name="LineageOS/android_packages_apps_Calendar" />
     <remove-project name="LineageOS/android_packages_apps_Camera2" />
+    <remove-project name="LineageOS/android_packages_apps_DocumentsUI" />
     <remove-project name="LineageOS/android_packages_apps_Jelly" />
     <remove-project name="LineageOS/android_packages_apps_Messaging" />
     <remove-project name="LineageOS/android_packages_apps_Snap" />
