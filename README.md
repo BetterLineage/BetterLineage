@@ -1,16 +1,16 @@
 # BetterLineage
 
-A script that replaces outdated AOSP apps and adds useful tools to LineageOS.
+A ROM that replaces outdated AOSP apps and adds useful tools to LineageOS.
 
 Download a prebuilt ROM for the Google Pixel [here](https://www.androidfilehost.com/?w=files&flid=302083).
 
-Add betterlineage.xml to local_manifests and add their name to CUSTOM_PACKAGES when compiling LineageOS with Docker.
-
-Example build script [here](https://github.com/BetterLineage/BetterLineage/blob/master/example_build.sh).
+For install, instructions, build instructions, FAQs, etc. See the [wiki](http://wiki.betterlineage.com)
 
 APKs are stored in [this](https://github.com/BetterLineage/android_prebuilts_prebuiltapks) repository.
 
-All apps are sourced from F-Droid except for Aurora Services ([located here](https://gitlab.com/AuroraOSS/AuroraServices/-/releases)), /e/ Nextcloud integration ([located here](https://gitlab.e.foundation/e/os/android_prebuilts_prebuiltapks/-/tree/master/)), LineageOS OpenWeatherMap Weather Provider ([located here](https://download.lineageos.org/extras)), and Unlock Clock ([located here](https://experiments.withgoogle.com/unlock-clock) [code here](https://github.com/BetterLineage/digital-wellbeing-experiments-toolkit/tree/master/liveWallpaper/data-livewallpaper)).
+## Sources
+
+All apps are sourced from F-Droid except for Aurora Services ([located here](https://gitlab.com/AuroraOSS/AuroraServices/-/releases)), /e/ Nextcloud integration ([located here](https://gitlab.e.foundation/e/os/android_prebuilts_prebuiltapks/-/tree/master/)), LineageOS OpenWeatherMap Weather Provider ([located here](https://download.lineageos.org/extras)), and Unlock Clock ([information here](https://experiments.withgoogle.com/unlock-clock) - [code here](https://github.com/BetterLineage/digital-wellbeing-experiments-toolkit/tree/master/liveWallpaper/data-livewallpaper)).
 
 ## Screenshots
 
