@@ -22,6 +22,7 @@ All apps are sourced from F-Droid except for Aurora Services ([located here](htt
 * Blockada V4
 * Etar (replaces AOSP Calendar)
 * F-Droid (includes Privileged Extension)
+* Flite TTS Engine
 * Good Weather
 * LibreOffice Viewer
 * Material Files (replaces AOSP DocumentsUI)
