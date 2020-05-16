@@ -52,5 +52,3 @@ All apps are sourced from F-Droid except for Aurora Services ([located here](htt
 ## Contributing:
 
 Feel free to submit pull requests in [this](https://github.com/BetterLineage/android_prebuilts_prebuiltapks) repository.
-
-Feel free to contact us at betterlineage [at] quint5 [dot] tech.
