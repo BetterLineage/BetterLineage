@@ -19,7 +19,6 @@ All apps are sourced from F-Droid except for Aurora Services ([located here](htt
 ## Installed Apps:
 
 * Aurora Store (includes Aurora Services)
-* Blockada V4
 * Etar (replaces AOSP Calendar)
 * F-Droid (includes Privileged Extension)
 * Flite TTS Engine
