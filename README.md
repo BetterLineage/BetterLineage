@@ -6,6 +6,8 @@ Download a prebuilt ROM for the Google Pixel [here](https://www.androidfilehost.
 
 For install instructions, build instructions, FAQs, etc. See the [wiki](http://wiki.betterlineage.com)
 
+For help and support, please have a look at our [XDA thread](http://xda.betterlineage.com).
+
 APKs are stored in [this](https://github.com/BetterLineage/android_prebuilts_prebuiltapks) repository.
 
 ## Sources
@@ -49,5 +51,7 @@ All apps are sourced from F-Droid except for Aurora Services ([located here](htt
 * Lineage Snap
 
 ## Contributing:
+
+Please only use GitHub Issues for bug reports and feature requests. For help and support, please post on our [XDA thread](http://xda.betterlineage.com).
 
 Feel free to submit pull requests in [this](https://github.com/BetterLineage/android_prebuilts_prebuiltapks) repository.
