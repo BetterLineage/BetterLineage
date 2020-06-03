@@ -2,7 +2,9 @@
 
 A ROM that replaces outdated AOSP apps and adds useful tools to LineageOS.
 
-Download a prebuilt ROM for the Google Pixel [here](https://www.androidfilehost.com/?w=files&flid=312384).
+Download the latest release from our build server [here](https://ota.betterlineage.com/builds/full).
+
+Previous releases can be found on [AndroidFileHost](https://androidfilehost.com/?w=devices&uid=4349826312261628453).
 
 For install instructions, build instructions, FAQs, etc. See the [wiki](http://wiki.betterlineage.com)
 
