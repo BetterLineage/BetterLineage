@@ -1,6 +1,6 @@
-# BetterLineage has been discontinued
+# BetterLineage has been discontinued (for the time being)
 
-#### Thank you for your interested in BetterLineage. Currently, I, Quint Burkley, do not have to maintain the ROM. SuperITMan has been unresponsive since May and I have been unable to get in touch with him. The Build/OTA server and betterlineage.com are offline. All builds are still accessible on AndroidFileHost. The rest of this README will remain in its orginal state.
+#### Thank you for your interested in BetterLineage. Currently, I, Quint Burkley, do not have time to maintain the ROM. SuperITMan has been unresponsive since May and I have been unable to get in touch with him. The Build/OTA server and betterlineage.com are offline. All builds are still accessible on AndroidFileHost. The rest of this README will remain in its orginal state.
 
 # BetterLineage
 
