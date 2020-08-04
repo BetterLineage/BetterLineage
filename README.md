@@ -1,14 +1,18 @@
+# BetterLineage has been discontinued
+
+#### Thank you for your interested in BetterLineage. Currently, I, Quint Burkley, do not have to maintain the ROM. SuperITMan has been unresponsive since May and I have been unable to get in touch with him. The Build/OTA server and betterlineage.com are offline. All builds are still accessible on AndroidFileHost. The rest of this README will remain in its orginal state.
+
 # BetterLineage
 
 A ROM that replaces outdated AOSP apps and adds useful tools to LineageOS.
 
-Download the latest release from our build server [here](https://ota.betterlineage.com/builds/full).
+Download the latest release from our build server [here](https://ota.betterlineage.com/builds/full) (offline, use AFH).
 
-Previous releases can be found on [AndroidFileHost](https://androidfilehost.com/?w=devices&uid=4349826312261628453).
+Releases can also be found on [AndroidFileHost](https://androidfilehost.com/?w=devices&uid=4349826312261628453).
 
-For install instructions, build instructions, FAQs, etc. See the [wiki](http://wiki.betterlineage.com)
+For install instructions, build instructions, FAQs, etc. See the [wiki](https://github.com/BetterLineage/BetterLineage/wiki)
 
-For help and support, please have a look at our [XDA thread](http://xda.betterlineage.com).
+For help and support, please have a look at our [XDA thread](https://forum.xda-developers.com/lineage/general/rom-betterlineage-16-0-privacy-focused-t4101581).
 
 APKs are stored in [this](https://github.com/BetterLineage/android_prebuilts_prebuiltapks) repository.
 
